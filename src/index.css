@@ -1,0 +1,40 @@
+/* src/index.css */
+.App {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  input {
+    padding: 8px;
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 8px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  .todo-card {
+    background-color: #f4f4f4;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+  }
+  
+  button {
+    background-color: red;
+    margin-left: 10px;
+  }
+  
+  button:hover {
+    background-color: darkred;
+  }
+  
