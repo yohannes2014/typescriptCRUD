@@ -1,0 +1,6 @@
+// type one
+On this type all neccessry states are drilled to componenet directly
+and rest map and other this have done on other componenet like CRUD app
+//type two
+on type to map the componenet from parent componenet the same time pass props to chiled componenet
+Crud function are complited on parent componenet this help to rediuce pass multiple props fon now i found this way slightly easy

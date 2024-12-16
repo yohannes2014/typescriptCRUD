@@ -49,7 +49,7 @@ const TypeOneForm: React.FC = () => {
       <div>
         <div className="card">
           <div className="card-body">
-            <h5 className="card-title">Vertical Form</h5>
+            <h5 className="card-title">Crud application</h5>
             <form className="row g-3" onSubmit={handleSubmit} noValidate>
               <div className="col-12">
                 <label htmlFor="inputName4" className="form-label">

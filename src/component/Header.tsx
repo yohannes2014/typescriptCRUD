@@ -10,6 +10,7 @@ const Header = () => {
             <Link className='m-2' to={'/TodoApp'}>TodoApp</Link>
             <Link className='m-2' to={'/Todo'}>Todo</Link>
             <Link className='m-2' to={'/TypeOne'}>TypeOne</Link>
+            <Link className='m-2' to={'/TypeTwo'}>TypeOne</Link>
         </NavLink>
     </div>
   )
